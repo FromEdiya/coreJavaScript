@@ -24,8 +24,8 @@ Rule 😎
 ```
 __01장.  데이터 타입__ 😜
 
-| 큰 제목 | 작은 제목 | 페이지 | 작성자 | 완료여부
-| :-------- | :----------------- | :--------: | :--------: | :--------: |
+| <center>큰 제목</center> | <center>작은 제목</center>| <center>페이지</center> | <center>작성자</center> | <center>완료여부</center>
+| -------- | ----------------- | :--------: | :--------: | :--------: |
 | 데이터 타입의 종류 |  | 1 | Local | :heavy_check_mark: |
 | 데이터 타입의 관한 배경지식 | 메모리와 데이터 | 3 | Local | :heavy_check_mark: |
 |  | 식별자와 변수 | 3 | Local | :heavy_check_mark: |
@@ -42,8 +42,8 @@ __01장.  데이터 타입__ 😜
 
 __02장.  실행 컨텍스트__ 😝
 
-| 큰 제목 | 작은 제목 | 페이지 | 작성자 | 완료여부
-| :-------- | :----------------- | :--------: | :--------: | :--------: |
+| <center>큰 제목</center> | <center>작은 제목</center>| <center>페이지</center> | <center>작성자</center> | <center>완료여부</center>
+| -------- | ----------------- | :--------: | :--------: | :--------: |
 | 실행 컨텍스트란? | - | 36 | Local | :heavy_check_mark: |
 | VariableEnviroment | environmentRecord와 호이스팅 | 42 | Local | :heavy_check_mark: |
 |  | 스코프, 스코프 체인, outerEnvironmentRefernce | 53 | Local | :heavy_check_mark: |
@@ -54,8 +54,8 @@ __02장.  실행 컨텍스트__ 😝
 
 __03장.  this__ 😋
 
-| 큰 제목 | 작은 제목 | 페이지 | 작성자 | 완료여부
-| :-------- | :----------------- | :--------: | :--------: | :--------: |
+| <center>큰 제목</center> | <center>작은 제목</center>| <center>페이지</center> | <center>작성자</center> | <center>완료여부</center>
+| -------- | ----------------- | :--------: | :--------: | :--------: |
 | 상황에 따라 달라지는 this | 전역 공간에서의 this | 65 | Santos | :heavy_check_mark: |
 |  | 메서드로서 호출할 때 그 메서드 내부에서의 this | 66 | Santos | :heavy_check_mark: |
 |  | 함수로서 호출할 때 그 함수 내부에서의 this | 72 | Santos | :heavy_check_mark: |
