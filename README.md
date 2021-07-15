@@ -24,7 +24,7 @@ Rule 😎
 ```
 __01장.데이터 타입__ 😜
 
-| <center>큰 제목</center> | <center>작은 제목</center>| <center>페이지</center> | <center>작성자</center> | <center>완료여부</center>
+| <center>큰 제목</center> | <center>작은 제목</center>| <center>페이지</center> | <center>작성자</center> | <center>완료</center>
 | -------- | ----------------- | :--------: | :--------: | :--------: |
 | 데이터 타입의 종류 |  | 1 | [Local][Local] | :heavy_check_mark: |
 | 데이터 타입의 관한 배경지식 | 메모리와 데이터 | 3 | [Local][Local] | :heavy_check_mark: |
@@ -42,7 +42,7 @@ __01장.데이터 타입__ 😜
 
 __02장.  실행 컨텍스트__ 😝
 
-| <center>큰 제목</center> | <center>작은 제목</center>| <center>페이지</center> | <center>작성자</center> | <center>완료여부</center>
+| <center>큰 제목</center> | <center>작은 제목</center>| <center>페이지</center> | <center>작성자</center> | <center>완료</center>
 | -------- | ----------------- | :--------: | :--------: | :--------: |
 | 실행 컨텍스트란? | - | 36 | [Local][Local] | :heavy_check_mark: |
 | VariableEnviroment | environmentRecord와 호이스팅 | 42 | [Local][Local] | :heavy_check_mark: |
@@ -54,7 +54,7 @@ __02장.  실행 컨텍스트__ 😝
 
 __03장.  this__ 😋
 
-| <center>큰 제목</center> | <center>작은 제목</center>| <center>페이지</center> | <center>작성자</center> | <center>완료여부</center>
+| <center>큰 제목</center> | <center>작은 제목</center>| <center>페이지</center> | <center>작성자</center> | <center>완료</center>
 | -------- | ----------------- | :--------: | :--------: | :--------: |
 | 상황에 따라 달라지는 this | 전역 공간에서의 this | 65 | [Santos][Santos] | :heavy_check_mark: |
 |  | 메서드로서 호출할 때 그 메서드 내부에서의 this | 66 | [Santos][Santos] | :heavy_check_mark: |
