@@ -65,9 +65,9 @@ Rule 😎
 | <center>큰 제목</center> | <center>작은 제목</center>                    | <center>페이지</center> | <center>작성자</center> | <center>완료</center> |
 | ------------------------ | --------------------------------------------- | :---------------------: | :---------------------: | :-------------------: |
 | 실행 컨텍스트란?         |  실행컨텍스트란?                                |           36            |     [Local][local]      |    |
-| VariableEnviroment       | environmentRecord와 호이스팅                  |           42            |     [Local][local]      |    |
+| VariabledEnvironment  | VariabledEnvironment                                     |            40            |    [Local][Local]     |    |
+| LexicalEnvironment       | environmentRecord와 호이스팅                  |           42            |     [Local][local]      |    |
 |                          | 스코프, 스코프 체인, outerEnvironmentRefernce |           53            |     [Local][local]      |    |
-| 변수 선언과 데이터 할당  | 변수 선언                                     |            5            |    [Santos][santos]     |    |
 | this                     |         this                                      |           63            |    [Santos][santos]     |                       |
 | 정리                     |  정리                                             |           63            |    [Santos][santos]     |                       |
 
