@@ -1,4 +1,8 @@
-#### [back](./../README.md)
+<p>
+
+#### [back](../../../README.md) &nbsp;&nbsp; | &nbsp;&nbsp; write by [Writer](https://github.com/)
+
+</p>
 
 # 데이터 타입의 종류
 
