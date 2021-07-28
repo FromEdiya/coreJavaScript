@@ -79,7 +79,7 @@ Rule 😎
 | VariabledEnvironment     | VariabledEnvironment                          |           40            |     [Local][local]      |                       |
 | LexicalEnvironment       | environmentRecord와 호이스팅                  |           42            |     [Local][local]      |                       |
 |                          | 스코프, 스코프 체인, outerEnvironmentRefernce |           53            |     [Local][local]      |                       |
-| this                     | this                                          |           63            |    [Santos][santos]     |                       |
+| this                     | [this][컨텍스트this]                                          |           63            |    [Santos][santos]     |      :heavy_check_mark:                 |
 | 정리                     | [정리][컨텍스트정리]                                          |           63            |    [Santos][santos]     |     :heavy_check_mark:                  |
 
 <br>
@@ -190,4 +190,5 @@ Rule 😎
 [정리]: ./contents/01.데이터타입/7.정리/7-1.정리.md
 
 
+[컨텍스트this]: ./contents/02.실행컨텍스트/4.this/4-1.this.md
 [컨텍스트정리]: ./contents/02.실행컨텍스트/5.정리/5-1.정리.md
