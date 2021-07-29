@@ -79,8 +79,8 @@ Rule 😎
 | VariabledEnvironment     | VariabledEnvironment                          |           40            |     [Local][local]      |                       |
 | LexicalEnvironment       | environmentRecord와 호이스팅                  |           42            |     [Local][local]      |                       |
 |                          | 스코프, 스코프 체인, outerEnvironmentRefernce |           53            |     [Local][local]      |                       |
-| this                     | this                                          |           63            |    [Santos][santos]     |                       |
-| 정리                     | 정리                                          |           63            |    [Santos][santos]     |                       |
+| this                     | [this][컨텍스트this]                                          |           63            |    [Santos][santos]     |      :heavy_check_mark:                 |
+| 정리                     | [정리][컨텍스트정리]                                          |           63            |    [Santos][santos]     |     :heavy_check_mark:                  |
 
 <br>
 <br>
@@ -175,6 +175,7 @@ Rule 😎
 [core-javascript]: https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K532636268&start=pnaver_02
 [santos]: https://github.com/SangchoKim
 [local]: https://github.com/blocallee
+
 [데이터타입의종류]: ./contents/01.데이터타입/1.데이터타입의종류/1-1.데이터타입의종류.md
 [메모리와데이터]: ./contents/01.데이터타입/2.데이터타입의관한배경지식/2-1.메모리와데이터.md
 [식별자와변수]: ./contents/01.데이터타입/2.데이터타입의관한배경지식/2-2.식별자와변수.md
@@ -187,3 +188,7 @@ Rule 😎
 [얕은복사와깊은복사]: ./contents/01.데이터타입/5.불변객체/5-2.얕은복사와깊은복사.md
 [undefined와null]: ./contents/01.데이터타입/6.undefined와null/6-1.undefined와null.md
 [정리]: ./contents/01.데이터타입/7.정리/7-1.정리.md
+
+
+[컨텍스트this]: ./contents/02.실행컨텍스트/4.this/4-1.this.md
+[컨텍스트정리]: ./contents/02.실행컨텍스트/5.정리/5-1.정리.md
