@@ -92,7 +92,7 @@ Rule 😎
 | 상황에 따라 달라지는 this         | [전역 공간에서의 this][전역공간에서의this]                                    |           65            |    [Santos][santos]     |   :heavy_check_mark:                    |
 |                                   | [메서드로서 호출할 때 그 메서드 내부에서의 this][메서드로서호출할때그메서드내부에서의this]          |           69            |    [Santos][santos]     |    :heavy_check_mark:                    |
 |                                   | [함수로서 호출할 때 그 함수 내부에서의 this][함수로서호출할때그메서드내부에서의this]              |           72            |    [Santos][santos]     |          :heavy_check_mark:              |
-|                                   | 콜백 함수 호출 시 그 함수 내부에서의 this               |           76            |    [Santos][santos]     |                       |
+|                                   | [콜백 함수 호출 시 그 함수 내부에서의 this][콜백함수호출시그함수내부에서의this]               |           76            |    [Santos][santos]     |                :heavy_check_mark:       |
 |                                   | 생성자 함수 내부에서의 this                             |           78            |    [Santos][santos]     |                       |
 | 명시적으로 this를 바인딩하는 방법 | call 메서드                                             |           78            |     [Local][local]      |                       |
 |                                   | apply 메서드                                            |           81            |     [Local][local]      |                       |
@@ -192,3 +192,4 @@ Rule 😎
 [전역공간에서의this]: ./contents/03.this/1.상황에따라달라지는this/1-1.전역공간에서의this.md
 [메서드로서호출할때그메서드내부에서의this]: ./contents/03.this/1.상황에따라달라지는this/1-2.메서드로서호출할때그메서드내부에서의this.md
 [함수로서호출할때그메서드내부에서의this]: ./contents/03.this/1.상황에따라달라지는this/1-3.함수로서호출할때그함수내부에서의this.md
+[콜백함수호출시그함수내부에서의this]: ./contents/03.this/1.상황에따라달라지는this/1-4.콜백함수호출시그함수내부에서의this.md
