@@ -89,8 +89,8 @@ Rule 😎
 
 | <center>큰 제목</center>          | <center>작은 제목</center>                              | <center>페이지</center> | <center>작성자</center> | <center>완료</center> |
 | --------------------------------- | ------------------------------------------------------- | :---------------------: | :---------------------: | :-------------------: |
-| 상황에 따라 달라지는 this         | 전역 공간에서의 this                                    |           65            |    [Santos][santos]     |                       |
-|                                   | 메서드로서 호출할 때 그 메서드 내부에서의 this          |           66            |    [Santos][santos]     |                       |
+| 상황에 따라 달라지는 this         | [전역 공간에서의 this][전역공간에서의this]                                    |           65            |    [Santos][santos]     |   :heavy_check_mark:                    |
+|                                   | 메서드로서 호출할 때 그 메서드 내부에서의 this          |           69            |    [Santos][santos]     |                       |
 |                                   | 함수로서 호출할 때 그 함수 내부에서의 this              |           72            |    [Santos][santos]     |                       |
 |                                   | 콜백 함수 호출 시 그 함수 내부에서의 this               |           76            |    [Santos][santos]     |                       |
 |                                   | 생성자 함수 내부에서의 this                             |           78            |    [Santos][santos]     |                       |
@@ -189,3 +189,4 @@ Rule 😎
 [정리]: ./contents/01.데이터타입/7.정리/7-1.정리.md
 [컨텍스트this]: ./contents/02.실행컨텍스트/4.this/4-1.this.md
 [컨텍스트정리]: ./contents/02.실행컨텍스트/5.정리/5-1.정리.md
+[전역공간에서의this]: ./contents/03.this/1.상황에따라달라지는this/1-1.전역공간에서의this.md
