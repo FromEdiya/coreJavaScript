@@ -53,20 +53,20 @@ Rule 😎
 
 **01장.데이터 타입** 😜
 
-| <center>큰 제목</center>      | <center>작은 제목</center>             | <center>페이지</center> | <center>작성자</center> | <center>완료</center> |
-| ----------------------------- | -------------------------------------- | :---------------------: | :---------------------: | :-------------------: |
-| 데이터 타입의 종류            | [데이터 타입의 종류][데이터타입의종류] |            1            |     [Local][local]      |  :heavy_check_mark:   |
-| 데이터 타입의 관한 배경지식   | [메모리와데이터][메모리와데이터]       |            3            |     [Local][local]      |  :heavy_check_mark:   |
-|                               | [식별자와 변수][식별자와변수]          |            3            |     [Local][local]      |  :heavy_check_mark:   |
-| 변수 선언과 데이터 할당       | [변수 선언][변수선언]                  |            5            |     [Local][local]      |  :heavy_check_mark:   |
-|                               | [데이터 할당][데이터할당]              |            6            |     [Local][local]      |  :heavy_check_mark:   |
-| 기본형 데이터와 참조형 데이터 | [불변값][불변값]                                 |            8            |    [Santos][santos]     |     :heavy_check_mark:                   |
-|                               | [가변값][가변값]                                 |           10            |    [Santos][santos]     |     :heavy_check_mark:                   |
-|                               | [변수 복사 비교][변수복사비교]                        |           15            |    [Santos][santos]     |       :heavy_check_mark:                 |
-| 불변 객체                     | [불변 객체를 만드는 간단한 방법][불변객체를만드는간단한방법]         |           20            |    [Santos][santos]     |           :heavy_check_mark:             |
-|                               | [얕은 복사와 깊은 복사][얕은복사와깊은복사]                   |           25            |    [Santos][santos]     |            :heavy_check_mark:            |
-| undefined와 null              | [undefined와 null][undefined와null]                       |           29            |    [Santos][santos]     |               :heavy_check_mark:         |
-| 정리                          |  [정리][정리]                                   |           34            |    [Santos][santos]     |          :heavy_check_mark:              |
+| <center>큰 제목</center>      | <center>작은 제목</center>                                   | <center>페이지</center> | <center>작성자</center> | <center>완료</center> |
+| ----------------------------- | ------------------------------------------------------------ | :---------------------: | :---------------------: | :-------------------: |
+| 데이터 타입의 종류            | [데이터 타입의 종류][데이터타입의종류]                       |            1            |     [Local][local]      |  :heavy_check_mark:   |
+| 데이터 타입의 관한 배경지식   | [메모리와데이터][메모리와데이터]                             |            3            |     [Local][local]      |  :heavy_check_mark:   |
+|                               | [식별자와 변수][식별자와변수]                                |            3            |     [Local][local]      |  :heavy_check_mark:   |
+| 변수 선언과 데이터 할당       | [변수 선언][변수선언]                                        |            5            |     [Local][local]      |  :heavy_check_mark:   |
+|                               | [데이터 할당][데이터할당]                                    |            6            |     [Local][local]      |  :heavy_check_mark:   |
+| 기본형 데이터와 참조형 데이터 | [불변값][불변값]                                             |            8            |    [Santos][santos]     |  :heavy_check_mark:   |
+|                               | [가변값][가변값]                                             |           10            |    [Santos][santos]     |  :heavy_check_mark:   |
+|                               | [변수 복사 비교][변수복사비교]                               |           15            |    [Santos][santos]     |  :heavy_check_mark:   |
+| 불변 객체                     | [불변 객체를 만드는 간단한 방법][불변객체를만드는간단한방법] |           20            |    [Santos][santos]     |  :heavy_check_mark:   |
+|                               | [얕은 복사와 깊은 복사][얕은복사와깊은복사]                  |           25            |    [Santos][santos]     |  :heavy_check_mark:   |
+| undefined와 null              | [undefined와 null][undefined와null]                          |           29            |    [Santos][santos]     |  :heavy_check_mark:   |
+| 정리                          | [정리][정리]                                                 |           34            |    [Santos][santos]     |  :heavy_check_mark:   |
 
 <br>
 <br>
@@ -75,12 +75,12 @@ Rule 😎
 
 | <center>큰 제목</center> | <center>작은 제목</center>                    | <center>페이지</center> | <center>작성자</center> | <center>완료</center> |
 | ------------------------ | --------------------------------------------- | :---------------------: | :---------------------: | :-------------------: |
-| 실행 컨텍스트란?         | 실행컨텍스트란?                               |           36            |     [Local][local]      |                       |
-| VariabledEnvironment     | VariabledEnvironment                          |           40            |     [Local][local]      |                       |
+| 실행 컨텍스트란?         | 실행컨텍스트란?                               |           36            |     [Local][local]      |  :heavy_check_mark:   |
+| VariabledEnvironment     | VariabledEnvironment                          |           40            |     [Local][local]      |  :heavy_check_mark:   |
 | LexicalEnvironment       | environmentRecord와 호이스팅                  |           42            |     [Local][local]      |                       |
 |                          | 스코프, 스코프 체인, outerEnvironmentRefernce |           53            |     [Local][local]      |                       |
-| this                     | [this][컨텍스트this]                                          |           63            |    [Santos][santos]     |      :heavy_check_mark:                 |
-| 정리                     | [정리][컨텍스트정리]                                          |           63            |    [Santos][santos]     |     :heavy_check_mark:                  |
+| this                     | [this][컨텍스트this]                          |           63            |    [Santos][santos]     |  :heavy_check_mark:   |
+| 정리                     | [정리][컨텍스트정리]                          |           63            |    [Santos][santos]     |  :heavy_check_mark:   |
 
 <br>
 <br>
@@ -175,7 +175,6 @@ Rule 😎
 [core-javascript]: https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K532636268&start=pnaver_02
 [santos]: https://github.com/SangchoKim
 [local]: https://github.com/blocallee
-
 [데이터타입의종류]: ./contents/01.데이터타입/1.데이터타입의종류/1-1.데이터타입의종류.md
 [메모리와데이터]: ./contents/01.데이터타입/2.데이터타입의관한배경지식/2-1.메모리와데이터.md
 [식별자와변수]: ./contents/01.데이터타입/2.데이터타입의관한배경지식/2-2.식별자와변수.md
@@ -188,7 +187,5 @@ Rule 😎
 [얕은복사와깊은복사]: ./contents/01.데이터타입/5.불변객체/5-2.얕은복사와깊은복사.md
 [undefined와null]: ./contents/01.데이터타입/6.undefined와null/6-1.undefined와null.md
 [정리]: ./contents/01.데이터타입/7.정리/7-1.정리.md
-
-
 [컨텍스트this]: ./contents/02.실행컨텍스트/4.this/4-1.this.md
 [컨텍스트정리]: ./contents/02.실행컨텍스트/5.정리/5-1.정리.md
