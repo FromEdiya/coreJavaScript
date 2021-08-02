@@ -77,7 +77,7 @@ Rule 😎
 | ------------------------ | --------------------------------------------- | :---------------------: | :---------------------: | :-------------------: |
 | 실행 컨텍스트란?         | 실행컨텍스트란?                               |           36            |     [Local][local]      |  :heavy_check_mark:   |
 | VariabledEnvironment     | VariabledEnvironment                          |           40            |     [Local][local]      |  :heavy_check_mark:   |
-| LexicalEnvironment       | environmentRecord와 호이스팅                  |           42            |     [Local][local]      |                       |
+| LexicalEnvironment       | environmentRecord와 호이스팅                  |           42            |     [Local][local]      |  :heavy_check_mark:   |
 |                          | 스코프, 스코프 체인, outerEnvironmentRefernce |           53            |     [Local][local]      |                       |
 | this                     | [this][컨텍스트this]                          |           63            |    [Santos][santos]     |  :heavy_check_mark:   |
 | 정리                     | [정리][컨텍스트정리]                          |           63            |    [Santos][santos]     |  :heavy_check_mark:   |
