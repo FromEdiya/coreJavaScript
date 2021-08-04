@@ -76,7 +76,7 @@ Rule 😎
 | <center>큰 제목</center> | <center>작은 제목</center>                                                                 | <center>페이지</center> | <center>작성자</center> | <center>완료</center> |
 | ------------------------ | ------------------------------------------------------------------------------------------ | :---------------------: | :---------------------: | :-------------------: |
 | 실행 컨텍스트란?         | [실행컨텍스트란?][실행컨텍스트란]                                                          |           36            |     [Local][local]      |  :heavy_check_mark:   |
-| VariabledEnvironment     | [VariabledEnvironment][variabledenvironment]                                               |           40            |     [Local][local]      |  :heavy_check_mark:   |
+| VariableEnvironment      | [VariableEnvironment][variableenvironment]                                                 |           40            |     [Local][local]      |  :heavy_check_mark:   |
 | LexicalEnvironment       | [environmentRecord와 호이스팅][environmentrecord와호이스팅]                                |           42            |     [Local][local]      |  :heavy_check_mark:   |
 |                          | [스코프, 스코프 체인, outerEnvironmentRefernce][스코프스코프체인outerenvironmentreference] |           53            |     [Local][local]      |  :heavy_check_mark:   |
 | this                     | [this][컨텍스트this]                                                                       |           63            |    [Santos][santos]     |  :heavy_check_mark:   |
@@ -109,9 +109,9 @@ Rule 😎
 
 | <center>큰 제목</center>                   | <center>작은 제목</center>                 | <center>페이지</center> | <center>작성자</center> | <center>완료여부</center> |
 | ------------------------------------------ | ------------------------------------------ | :---------------------: | :---------------------: | :-----------------------: |
-| 콜백 함수란?                               | [콜백 함수란?][콜백함수란]                               |           94            |    [Santos][santos]     |         :heavy_check_mark:                  |
-| 제어권                                     | [호출 시점][호출시점]                                  |           95            |    [Santos][santos]     |           :heavy_check_mark:                 |
-|                                            | [인자][인자]                                       |           98            |    [Santos][santos]     |             :heavy_check_mark:               |
+| 콜백 함수란?                               | [콜백 함수란?][콜백함수란]                 |           94            |    [Santos][santos]     |    :heavy_check_mark:     |
+| 제어권                                     | [호출 시점][호출시점]                      |           95            |    [Santos][santos]     |    :heavy_check_mark:     |
+|                                            | [인자][인자]                               |           98            |    [Santos][santos]     |    :heavy_check_mark:     |
 |                                            | this                                       |           100           |    [Santos][santos]     |                           |
 | 콜백 함수는 함수다                         | 콜백 함수는 함수다                         |           102           |    [Santos][santos]     |                           |
 | 콜백 함수 내부의 this에 다른 값 바인딩하기 | 콜백 함수 내부의 this에 다른 값 바인딩하기 |           103           |     [Local][local]      |                           |
@@ -190,7 +190,7 @@ Rule 😎
 [컨텍스트this]: ./contents/02.실행컨텍스트/4.this/4-1.this.md
 [컨텍스트정리]: ./contents/02.실행컨텍스트/5.정리/5-1.정리.md
 [실행컨텍스트란]: ./contents/02.실행컨텍스트/1.실행컨텍스트란/1-1.실행컨텍스트란.md
-[variabledenvironment]: ./contents/02.실행컨텍스트/1.실행컨텍스트란/1-2.VariableEnvironment.md
+[variableenvironment]: ./contents/02.실행컨텍스트/1.실행컨텍스트란/1-2.VariableEnvironment.md
 [environmentrecord와호이스팅]: ./contents/02.실행컨텍스트/1.실행컨텍스트란/1-3.LexicalEnvironment와호이스팅.md
 [스코프스코프체인outerenvironmentreference]: ./contents/02.실행컨텍스트/1.실행컨텍스트란/1-4.스코프스코프체인outerEnvironmentReference.md
 [전역공간에서의this]: ./contents/03.this/1.상황에따라달라지는this/1-1.전역공간에서의this.md
