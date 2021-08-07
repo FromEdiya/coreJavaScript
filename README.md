@@ -115,7 +115,7 @@ Rule 😎
 |                                            | [this][콜백this]                                       |           100           |    [Santos][santos]     |          :heavy_check_mark:                 |
 | 콜백 함수는 함수다                         | [콜백 함수는 함수다][콜백함수는함수다]                         |           102           |    [Santos][santos]     |             :heavy_check_mark:              |
 | 콜백 함수 내부의 this에 다른 값 바인딩하기 | [콜백 함수 내부의 this에 다른 값 바인딩하기][콜백함수내부의this에다른값바인딩하기] |           103           |     [Santos][santos]      |              :heavy_check_mark:              |
-| 콜백 지옥과 비동기 제어                    | 콜백 지옥과 비동기 제어                    |           106           |     [Local][local]      |                           |
+| 콜백 지옥과 비동기 제어                    | [콜백 지옥과 비동기 제어][콜백지옥과비동기제어]                    |           106           |     [Santos][santos]      |           :heavy_check_mark:                 |
 | 정리                                       | 정리                                       |           113           |     [Local][local]      |                           |
 
 <br>
@@ -204,3 +204,4 @@ Rule 😎
 [콜백this]: ./contents/04.콜백함수/2.제어권/2-3.this.md
 [콜백함수는함수다]: ./contents/04.콜백함수/3.콜백함수는함수다/3-1.콜백함수는함수다.md
 [콜백함수내부의this에다른값바인딩하기]: ./contents/04.콜백함수/4.콜백함수내부의this에다른값바인딩하기/4-1.콜백함수내부의this에다른값바인딩하기.md
+[콜백지옥과비동기제어]: ./contents/04.콜백함수/5.콜백지옥과비동기제어/5-1.콜백지옥과비동기제어.md
