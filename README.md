@@ -96,7 +96,7 @@ Rule 😎
 |                                   | [생성자 함수 내부에서의 this][생성자함수내부에서의this]                                    |           78            |    [Santos][santos]     |  :heavy_check_mark:   |
 | 명시적으로 this를 바인딩하는 방법 | [call 메서드][call메서드]                                                                  |           80            |     [Local][local]      |  :heavy_check_mark:   |
 |                                   | [apply 메서드][apply메서드]                                                                |           81            |     [Local][local]      |  :heavy_check_mark:   |
-|                                   | call/apply 메서드의 활용                                                                   |           82            |     [Local][local]      |                       |
+|                                   | [call/apply 메서드의 활용][callapply메서드의활용]                                          |           82            |     [Local][local]      |  :heavy_check_mark:   |
 |                                   | bind 메서드                                                                                |           87            |     [Local][local]      |                       |
 |                                   | 화살표 함수의 예외사항                                                                     |           90            |     [Local][local]      |                       |
 |                                   | 별도의 인자로 this를 받는 경우(콜백 함수 내에서의 this)                                    |           91            |     [Local][local]      |                       |
@@ -203,3 +203,4 @@ Rule 😎
 [environmentrecord와호이스팅]: ./contents/02.실행컨텍스트/1.실행컨텍스트란/1-3.LexicalEnvironment와호이스팅.md
 [call메서드]: ./contents/03.this/2.명시적을this를바인딩하는방법/2-1.call메서드.md
 [apply메서드]: ./contents/03.this/2.명시적을this를바인딩하는방법/2-2.apply메서드.md
+[callapply메서드의활용]: ./contents/03.this/2.명시적을this를바인딩하는방법/2-3.callapply메서드의활용.md
