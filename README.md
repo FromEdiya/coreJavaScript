@@ -100,7 +100,7 @@ Rule 😎
 |                                   | [bind 메서드][bind메서드]                                                                                   |           87            |     [Local][local]      |  :heavy_check_mark:   |
 |                                   | [화살표 함수의 예외사항][화살표함수의예외사항]                                                              |           90            |     [Local][local]      |  :heavy_check_mark:   |
 |                                   | [별도의 인자로 this를 받는 경우(콜백 함수 내에서의 this)][별도의인자로this를받는경우(콜백함수내에서의this)] |           91            |     [Local][local]      |  :heavy_check_mark:   |
-| 정리                              | 정리                                                                                                        |           93            |     [Local][local]      |                       |
+| 정리                              | [정리][this정리]                                                                                            |           93            |     [Local][local]      |  :heavy_check_mark:   |
 
 <br>
 <br>
@@ -207,3 +207,4 @@ Rule 😎
 [bind메서드]: ./contents/03.this/2.명시적을this를바인딩하는방법/2-4.bind메서드.md
 [화살표함수의예외사항]: ./contents/03.this/2.명시적을this를바인딩하는방법/2-5.화살표함수의예외사항.md
 [별도의인자로this를받는경우(콜백함수내에서의this)]: ./contents/03.this/2.명시적을this를바인딩하는방법/2-6.별도의인자로this를받은경우(콜백함수내에서는this).md
+[this정리]: ./contents/03.this/3.정리/3-1.정리.md
