@@ -87,20 +87,20 @@ Rule 😎
 
 **03장. this** 😋
 
-| <center>큰 제목</center>          | <center>작은 제목</center>                                                                 | <center>페이지</center> | <center>작성자</center> | <center>완료</center> |
-| --------------------------------- | ------------------------------------------------------------------------------------------ | :---------------------: | :---------------------: | :-------------------: |
-| 상황에 따라 달라지는 this         | [전역 공간에서의 this][전역공간에서의this]                                                 |           65            |    [Santos][santos]     |  :heavy_check_mark:   |
-|                                   | [메서드로서 호출할 때 그 메서드 내부에서의 this][메서드로서호출할때그메서드내부에서의this] |           69            |    [Santos][santos]     |  :heavy_check_mark:   |
-|                                   | [함수로서 호출할 때 그 함수 내부에서의 this][함수로서호출할때그메서드내부에서의this]       |           72            |    [Santos][santos]     |  :heavy_check_mark:   |
-|                                   | [콜백 함수 호출 시 그 함수 내부에서의 this][콜백함수호출시그함수내부에서의this]            |           76            |    [Santos][santos]     |  :heavy_check_mark:   |
-|                                   | [생성자 함수 내부에서의 this][생성자함수내부에서의this]                                    |           78            |    [Santos][santos]     |  :heavy_check_mark:   |
-| 명시적으로 this를 바인딩하는 방법 | [call 메서드][call메서드]                                                                  |           80            |     [Local][local]      |  :heavy_check_mark:   |
-|                                   | [apply 메서드][apply메서드]                                                                |           81            |     [Local][local]      |  :heavy_check_mark:   |
-|                                   | [call/apply 메서드의 활용][callapply메서드의활용]                                          |           82            |     [Local][local]      |  :heavy_check_mark:   |
-|                                   | [bind 메서드][bind메서드]                                                                  |           87            |     [Local][local]      |  :heavy_check_mark:   |
-|                                   | [화살표 함수의 예외사항][화살표함수의예외사항]                                             |           90            |     [Local][local]      |  :heavy_check_mark:   |
-|                                   | 별도의 인자로 this를 받는 경우(콜백 함수 내에서의 this)                                    |           91            |     [Local][local]      |                       |
-| 정리                              | 정리                                                                                       |           93            |     [Local][local]      |                       |
+| <center>큰 제목</center>          | <center>작은 제목</center>                                                                                  | <center>페이지</center> | <center>작성자</center> | <center>완료</center> |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------- | :---------------------: | :---------------------: | :-------------------: |
+| 상황에 따라 달라지는 this         | [전역 공간에서의 this][전역공간에서의this]                                                                  |           65            |    [Santos][santos]     |  :heavy_check_mark:   |
+|                                   | [메서드로서 호출할 때 그 메서드 내부에서의 this][메서드로서호출할때그메서드내부에서의this]                  |           69            |    [Santos][santos]     |  :heavy_check_mark:   |
+|                                   | [함수로서 호출할 때 그 함수 내부에서의 this][함수로서호출할때그메서드내부에서의this]                        |           72            |    [Santos][santos]     |  :heavy_check_mark:   |
+|                                   | [콜백 함수 호출 시 그 함수 내부에서의 this][콜백함수호출시그함수내부에서의this]                             |           76            |    [Santos][santos]     |  :heavy_check_mark:   |
+|                                   | [생성자 함수 내부에서의 this][생성자함수내부에서의this]                                                     |           78            |    [Santos][santos]     |  :heavy_check_mark:   |
+| 명시적으로 this를 바인딩하는 방법 | [call 메서드][call메서드]                                                                                   |           80            |     [Local][local]      |  :heavy_check_mark:   |
+|                                   | [apply 메서드][apply메서드]                                                                                 |           81            |     [Local][local]      |  :heavy_check_mark:   |
+|                                   | [call/apply 메서드의 활용][callapply메서드의활용]                                                           |           82            |     [Local][local]      |  :heavy_check_mark:   |
+|                                   | [bind 메서드][bind메서드]                                                                                   |           87            |     [Local][local]      |  :heavy_check_mark:   |
+|                                   | [화살표 함수의 예외사항][화살표함수의예외사항]                                                              |           90            |     [Local][local]      |  :heavy_check_mark:   |
+|                                   | [별도의 인자로 this를 받는 경우(콜백 함수 내에서의 this)][별도의인자로this를받는경우(콜백함수내에서의this)] |           91            |     [Local][local]      |  :heavy_check_mark:   |
+| 정리                              | 정리                                                                                                        |           93            |     [Local][local]      |                       |
 
 <br>
 <br>
@@ -206,3 +206,4 @@ Rule 😎
 [callapply메서드의활용]: ./contents/03.this/2.명시적을this를바인딩하는방법/2-3.callapply메서드의활용.md
 [bind메서드]: ./contents/03.this/2.명시적을this를바인딩하는방법/2-4.bind메서드.md
 [화살표함수의예외사항]: ./contents/03.this/2.명시적을this를바인딩하는방법/2-5.화살표함수의예외사항.md
+[별도의인자로this를받는경우(콜백함수내에서의this)]: ./contents/03.this/2.명시적을this를바인딩하는방법/2-6.별도의인자로this를받은경우(콜백함수내에서는this).md
