@@ -107,31 +107,31 @@ Rule 😎
 
 **04장. 콜백함수** 😘
 
-| <center>큰 제목</center>                   | <center>작은 제목</center>                 | <center>페이지</center> | <center>작성자</center> | <center>완료여부</center> |
-| ------------------------------------------ | ------------------------------------------ | :---------------------: | :---------------------: | :-----------------------: |
-| 콜백 함수란?                               | [콜백 함수란?][콜백함수란]                 |           94            |    [Santos][santos]     |    :heavy_check_mark:     |
-| 제어권                                     | [호출 시점][호출시점]                      |           95            |    [Santos][santos]     |    :heavy_check_mark:     |
-|                                            | [인자][인자]                               |           98            |    [Santos][santos]     |    :heavy_check_mark:     |
-|                                            | [this][콜백this]                                       |           100           |    [Santos][santos]     |          :heavy_check_mark:                 |
-| 콜백 함수는 함수다                         | [콜백 함수는 함수다][콜백함수는함수다]                         |           102           |    [Santos][santos]     |             :heavy_check_mark:              |
-| 콜백 함수 내부의 this에 다른 값 바인딩하기 | [콜백 함수 내부의 this에 다른 값 바인딩하기][콜백함수내부의this에다른값바인딩하기] |           103           |     [Santos][santos]      |              :heavy_check_mark:              |
-| 콜백 지옥과 비동기 제어                    | [콜백 지옥과 비동기 제어][콜백지옥과비동기제어]                    |           106           |     [Santos][santos]      |           :heavy_check_mark:                 |
-| 정리                                       | [정리][콜백함수정리]                                       |           113           |     [Santos][santos]      |            :heavy_check_mark:                |
+| <center>큰 제목</center>                   | <center>작은 제목</center>                                                         | <center>페이지</center> | <center>작성자</center> | <center>완료여부</center> |
+| ------------------------------------------ | ---------------------------------------------------------------------------------- | :---------------------: | :---------------------: | :-----------------------: |
+| 콜백 함수란?                               | [콜백 함수란?][콜백함수란]                                                         |           94            |    [Santos][santos]     |    :heavy_check_mark:     |
+| 제어권                                     | [호출 시점][호출시점]                                                              |           95            |    [Santos][santos]     |    :heavy_check_mark:     |
+|                                            | [인자][인자]                                                                       |           98            |    [Santos][santos]     |    :heavy_check_mark:     |
+|                                            | [this][콜백this]                                                                   |           100           |    [Santos][santos]     |    :heavy_check_mark:     |
+| 콜백 함수는 함수다                         | [콜백 함수는 함수다][콜백함수는함수다]                                             |           102           |    [Santos][santos]     |    :heavy_check_mark:     |
+| 콜백 함수 내부의 this에 다른 값 바인딩하기 | [콜백 함수 내부의 this에 다른 값 바인딩하기][콜백함수내부의this에다른값바인딩하기] |           103           |    [Santos][santos]     |    :heavy_check_mark:     |
+| 콜백 지옥과 비동기 제어                    | [콜백 지옥과 비동기 제어][콜백지옥과비동기제어]                                    |           106           |    [Santos][santos]     |    :heavy_check_mark:     |
+| 정리                                       | [정리][콜백함수정리]                                                               |           113           |    [Santos][santos]     |    :heavy_check_mark:     |
 
 <br>
 <br>
 
 **05장.클로저** 🥸
 
-| <center>큰 제목</center>   | <center>작은 제목</center>                        | <center>페이지</center> | <center>작성자</center> | <center>완료여부</center> |
-| -------------------------- | ------------------------------------------------- | :---------------------: | :---------------------: | :-----------------------: |
-| 클로저의 의미 및 원리 이해 | [클로저의 의미 및 원리 이해][클로저의의미및원리이해]                        |           115           |    [Santos][santos]     |          :heavy_check_mark:                  |
-| 클로저와 메모리 관리       | [클로저와 메모리 관리][클로저와메모리관리]                             |           123           |    [Santos][santos]     |                    :heavy_check_mark:        |
-| 클로저 활용 사례           | [콜백 함수 내부에서 외부 데이터를 사용하고자 할 때][콜백함수에서외부데이터를사용하고자할때] |           125           |     [Santos][santos]      |              :heavy_check_mark:              |
-|                            | 접근 권한 제어(정보 은닉)                         |           129           |     [Local][local]      |                           |
-|                            | 부분 적용 함수                                    |           134           |     [Local][local]      |                           |
-|                            | 커링 함수                                         |           141           |     [Local][local]      |                           |
-| 정리                       | 정리                                              |           145           |     [Local][local]      |                           |
+| <center>큰 제목</center>   | <center>작은 제목</center>                                                                  | <center>페이지</center> | <center>작성자</center> | <center>완료여부</center> |
+| -------------------------- | ------------------------------------------------------------------------------------------- | :---------------------: | :---------------------: | :-----------------------: |
+| 클로저의 의미 및 원리 이해 | [클로저의 의미 및 원리 이해][클로저의의미및원리이해]                                        |           115           |    [Santos][santos]     |    :heavy_check_mark:     |
+| 클로저와 메모리 관리       | [클로저와 메모리 관리][클로저와메모리관리]                                                  |           123           |    [Santos][santos]     |    :heavy_check_mark:     |
+| 클로저 활용 사례           | [콜백 함수 내부에서 외부 데이터를 사용하고자 할 때][콜백함수에서외부데이터를사용하고자할때] |           125           |    [Santos][santos]     |    :heavy_check_mark:     |
+|                            | [접근 권한 제어(정보 은닉)][접근권한제어정보은닉]                                           |           129           |     [Local][local]      |                           |
+|                            | 부분 적용 함수                                                                              |           134           |     [Local][local]      |                           |
+|                            | 커링 함수                                                                                   |           141           |     [Local][local]      |                           |
+| 정리                       | 정리                                                                                        |           145           |     [Local][local]      |                           |
 
 <br>
 <br>
@@ -219,3 +219,4 @@ Rule 😎
 [별도의인자로this를받는경우(콜백함수내에서의this)]: ./contents/03.this/2.명시적을this를바인딩하는방법/2-6.별도의인자로this를받은경우(콜백함수내에서는this).md
 [this정리]: ./contents/03.this/3.정리/3-1.정리.md
 [콜백함수에서외부데이터를사용하고자할때]: ./contents/05.클로저/3.클로저활용사례/3-1.콜백함수내부에서외부데이터를사용하고자할때.md
+[접근권한제어정보은닉]: ./contents/05.클로저/3.클로저활용사례/3-2.접근권한제어(정보은닉).md
