@@ -141,7 +141,7 @@ Rule 😎
 | <center>큰 제목</center> | <center>작은 제목</center>       | <center>페이지</center> | <center>작성자</center> | <center>완료여부</center> |
 | ------------------------ | -------------------------------- | :---------------------: | :---------------------: | :-----------------------: |
 | 프로토타입의 개념 이해   | [constructor, prototype, instance][constructor,prototype,instance] |           147           |    [Santos][santos]     |                :heavy_check_mark:           |
-|                          | constructor 프로퍼티             |           157           |    [Santos][santos]     |                           |
+|                          | [constructor 프로퍼티][constructor프로퍼티]             |           157           |    [Santos][santos]     |             :heavy_check_mark:             |
 | 프로토타입 체인          | 메서드 오버라이드                |           160           |     [Local][local]      |                           |
 |                          | 프로토타입 체인                  |           162           |     [Local][local]      |                           |
 |                          | 객체 전용 메서드의 예외사항      |           168           |     [Local][local]      |                           |
@@ -224,3 +224,4 @@ Rule 😎
 [커링함수]: ./contents/05.클로저/3.클로저활용사례/3-4.커링함수.md
 [클로저정리]: ./contents/05.클로저/4.정리/4-1.정리.md
 [constructor,prototype,instance]: ./contents/06.프로토타입/1.프로토타입개념이해/1-1.constructor,prototype,instance.md
+[constructor프로퍼티]: ./contents/06.프로토타입/1.프로토타입개념이해/1-2.constructor프로퍼티.md
