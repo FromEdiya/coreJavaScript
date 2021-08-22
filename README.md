@@ -138,15 +138,15 @@ Rule 😎
 
 **06장. 프로토타입** 🤩
 
-| <center>큰 제목</center> | <center>작은 제목</center>       | <center>페이지</center> | <center>작성자</center> | <center>완료여부</center> |
-| ------------------------ | -------------------------------- | :---------------------: | :---------------------: | :-----------------------: |
-| 프로토타입의 개념 이해   | [constructor, prototype, instance][constructor,prototype,instance] |           147           |    [Santos][santos]     |                :heavy_check_mark:           |
-|                          | [constructor 프로퍼티][constructor프로퍼티]             |           157           |    [Santos][santos]     |             :heavy_check_mark:             |
-| 프로토타입 체인          | 메서드 오버라이드                |           160           |     [Local][local]      |                           |
-|                          | 프로토타입 체인                  |           162           |     [Local][local]      |                           |
-|                          | 객체 전용 메서드의 예외사항      |           168           |     [Local][local]      |                           |
-|                          | 다중 프로토타입 체인             |           171           |     [Local][local]      |                           |
-| 정리                     | 정리                             |           173           |     [Local][local]      |                           |
+| <center>큰 제목</center> | <center>작은 제목</center>                                         | <center>페이지</center> | <center>작성자</center> | <center>완료여부</center> |
+| ------------------------ | ------------------------------------------------------------------ | :---------------------: | :---------------------: | :-----------------------: |
+| 프로토타입의 개념 이해   | [constructor, prototype, instance][constructor,prototype,instance] |           147           |    [Santos][santos]     |    :heavy_check_mark:     |
+|                          | [constructor 프로퍼티][constructor프로퍼티]                        |           157           |    [Santos][santos]     |    :heavy_check_mark:     |
+| 프로토타입 체인          | [메서드 오버라이드][메서드오버라이드]                              |           160           |     [Local][local]      |    :heavy_check_mark:     |
+|                          | 프로토타입 체인                                                    |           162           |     [Local][local]      |                           |
+|                          | 객체 전용 메서드의 예외사항                                        |           168           |     [Local][local]      |                           |
+|                          | 다중 프로토타입 체인                                               |           171           |     [Local][local]      |                           |
+| 정리                     | 정리                                                               |           173           |     [Local][local]      |                           |
 
 <br>
 <br>
@@ -225,3 +225,4 @@ Rule 😎
 [클로저정리]: ./contents/05.클로저/4.정리/4-1.정리.md
 [constructor,prototype,instance]: ./contents/06.프로토타입/1.프로토타입개념이해/1-1.constructor,prototype,instance.md
 [constructor프로퍼티]: ./contents/06.프로토타입/1.프로토타입개념이해/1-2.constructor프로퍼티.md
+[메서드오버라이드]: ./contents/06.프로토타입/2.프로토타입체인/2-1.메서드오버라이드.md
