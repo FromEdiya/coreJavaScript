@@ -160,7 +160,7 @@ Rule 😎
 | 클래스 상속                   | [기본 구현][클래스상속기본구현]                                                                |           181           |     [Local][local]      |    :heavy_check_mark:     |
 |                               | [클래스가 구체적인 데이터를 지니지 않게 하는 방법][클래스가구체적인데이터를지니지않게하는방법] |           189           |     [Local][local]      |    :heavy_check_mark:     |
 |                               | [constructor 복구하기][constructor복구하기]                                                    |           193           |     [Local][local]      |    :heavy_check_mark:     |
-|                               | 상위 클래스에의 접근 수단 제공                                                                 |           195           |     [Local][local]      |                           |
+|                               | [상위 클래스에의 접근 수단 제공][상위클래스에의접근수단제공]                                   |           195           |     [Local][local]      |    :heavy_check_mark:     |
 | ES6의 클래스 및 클래스 상속   | [ES6의 클래스 및 클래스 상속][es6의클래스및클래스상속]                                         |           197           |    [Santos][santos]     |    :heavy_check_mark:     |
 | 정리                          | [정리][클래스정리]                                                                             |           200           |    [Santos][santos]     |    :heavy_check_mark:     |
 
@@ -237,3 +237,4 @@ Rule 😎
 [클래스상속기본구현]: ./contents/07.클래스/3.클래스상속/3-1.기본구현.md
 [클래스가구체적인데이터를지니지않게하는방법]: ./contents/07.클래스/3.클래스상속/3-2.클래스가구체적인데이터를지니지않게하는방법.md
 [constructor복구하기]: ./contents/07.클래스/3.클래스상속/3-3.constructor복구하기.md
+[상위클래스에의접근수단제공]: ./contents/07.클래스/3.클래스상속/3-4.상위클래스에의접근수단제공.md
